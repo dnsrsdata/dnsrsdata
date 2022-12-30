@@ -69,7 +69,7 @@ dnsrsdata@github
 
 |                                                                     Status Daniel                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [![Daniel github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dnsrsdata&theme=react-dark&custom_title=Contribuições&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |
+| [![Daniel github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dnsrsdata&theme=react-dark&custom_title=Contribuições%20nos%20ultimos%20dias&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |
 | ![Daniel github stats](https://github-readme-stats.vercel.app/api?username=dnsrsdata&show_icons=true&theme=algolia)              | 
 | ![Daniel GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dnsrsdata&theme=algolia)                    | 
     
