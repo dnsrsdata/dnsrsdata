@@ -61,6 +61,7 @@ dnsrsdata@github
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="PowerBI" src="https://img.shields.io/badge/Power_BI-fde910.svg?logo=PowerBI&logoColor=white"></a>
     <a href="#"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-0078d7.svg?logo=kaggle&logoColor=white"></a>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-FFFFFF.svg?logo=Docker&logoColor=blue"></a>
 </p>
 
 ## GitHub Status
