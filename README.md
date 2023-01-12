@@ -41,6 +41,7 @@ dnsrsdata@github
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="Scikit Learn" src="https://img.shields.io/badge/Scikit_Learn%20-%23013243.svg?logo=scikitlearn&logoColor=white"></a>
+    <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn%20-%23013243.svg?logo=matplotlib&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases e Cloud Hosting
@@ -55,7 +56,7 @@ dnsrsdata@github
 <p>
     <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/PyCharm-00ff80.svg?logo=pycharm&logoColor=black"></a>
     <a href="#"><img alt="Metabase" src="https://img.shields.io/badge/Metabase-ffffff.svg?logo=Metabase&logoColor=blue"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-FFFFFF.svg?logo=Docker&logoColor=blue"></a>
