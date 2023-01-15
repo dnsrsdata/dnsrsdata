@@ -68,10 +68,10 @@ dnsrsdata@github
 |                                                                     Status Daniel                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | [![Daniel github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dnsrsdata&theme=react-dark&custom_title=Contribuições%20nos%20ultimos%20dias&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |
-| ![Daniel github stats](https://github-readme-stats.vercel.app/api?username=dnsrsdata&show_icons=true&theme=algolia)              | 
-| ![Daniel GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dnsrsdata&theme=algolia)                    | 
+| ![Daniel github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dnsrsdata&show_icons=true&theme=react  )              | 
+| ![Daniel GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dnsrsdata&theme=react )                    | 
     
     
 |                                                                                                      Daniel's Stars                                                                                                       |                                                           Linguagens mais utilizadas                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=dnsrsdata&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=dnsrsdata&theme=algolia&layout=compact) |
+| ![Github Stars](https://github-readme-stats-sigma-five.vercel.app/api?username=dnsrsdata&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=react) | ![Linguagens mais usadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dnsrsdata&theme=react&layout=compact) |
