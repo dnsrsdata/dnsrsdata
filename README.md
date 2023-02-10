@@ -6,23 +6,22 @@ Oi, eu sou Daniel Soares!
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
+<p align="justify">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Cientista+de+dados;Sempre+aprendendo+coisas+novas" alt="Typing SVG" /></a>
 </p>
 
-<img align="left" src="https://c.tenor.com/yFKbJFsOvs4AAAAC/luffy-smile-luffy-giggle.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://media.tenor.com/nVN3rFQ9JacAAAAC/anime-aesthetic.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="420" height='280' />
 <hr>
 
 ```
 dnsrsdata@github
 -------------------------
-💻 Sou um Cientista de Dados
+💻 Cientista de Dados
 📚 Formado em Análise e Desenvolvimento de Sistemas
 📝 Entusiasta de MLOps
 🔭 Atualmente utilizando Machine Learning em projetos pessoais 
 🌱 Estudando Cloud Computing e deploy de modelos
 🌟 Minha linguagem: Python
-🎵 Escuto de tudo, desde um rock anos 80 até um lofi relaxante
 ```
 <hr>
 
