@@ -10,7 +10,7 @@ Oi, eu sou Daniel Soares!
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Cientista+de+dados;Sempre+aprendendo+coisas+novas" alt="Typing SVG" /></a>
 </p>
 
-<img align="left" src="https://media.tenor.com/nVN3rFQ9JacAAAAC/anime-aesthetic.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="400" height='280' />
+<img align="left" src="https://media.tenor.com/nVN3rFQ9JacAAAAC/anime-aesthetic.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="370" height='280' />
 <hr>
 
 ```
