@@ -39,8 +39,10 @@ dnsrsdata@github
 <p>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="Scikit Learn" src="https://img.shields.io/badge/Scikit_Learn%20-%23013243.svg?logo=scikitlearn&logoColor=white"></a>
-    <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn%20-%23013243.svg?logo=matplotlib&logoColor=white"></a>
+    <a href="#"><img alt="Scikit Learn" src="https://img.shields.io/badge/Scikit_Learn-ffffff.svg?logo=scikitlearn&logoColor=orange"></a>
+    <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn%20-%23013243.svg?logo=seaborn&logoColor=white"></a>
+    <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/PySpark-ffffff.svg?logo=apache-spark&logoColor=orange"></a>
+  
 </p>
 
 ### 🗄️ Databases e Cloud Hosting
@@ -66,7 +68,7 @@ dnsrsdata@github
 
 |                                                                     Status Daniel                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [![Daniel github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dnsrsdata&theme=react-dark&custom_title=Contribuições%20nos%20ultimos%20dias&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |
+| [![Daniel github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dnsrsdata&theme=react-dark&custom_title=Contribuições%20nos%20ultimos%20dias&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |
 | ![Daniel github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dnsrsdata&show_icons=true&theme=react  )              | 
 | ![Daniel GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dnsrsdata&theme=react )                    | 
     
