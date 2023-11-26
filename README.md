@@ -20,7 +20,7 @@ dnsrsdata@github
 📚 Formado em Análise e Desenvolvimento de Sistemas
 📝 Entusiasta de MLOps
 🔭 Atualmente utilizando Machine Learning em projetos pessoais 
-🌱 Estudando Cloud Computing e deploy de modelos
+🌱 Estudando Probabilidade e Teste A/B
 🌟 Minha linguagem: Python
 ```
 <hr>
